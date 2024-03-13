@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCalculator", "PiCalculator\PiCalculator.csproj", "{C4C95C99-3480-4E9A-9084-829EEA332C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C95C99-3480-4E9A-9084-829EEA332C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C95C99-3480-4E9A-9084-829EEA332C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C95C99-3480-4E9A-9084-829EEA332C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C95C99-3480-4E9A-9084-829EEA332C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8049D31-8012-4F57-A1A2-A0C2EEFA6429}
+	EndGlobalSection
+EndGlobal
